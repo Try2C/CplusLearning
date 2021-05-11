@@ -5,7 +5,7 @@ int main()
 {
 
     int n = 5;
-    cout << &n << endl; //get adress
+    cout << &n << endl; //get reference
     int *ptr = &n;      //pointer to the type must be the same
     cout << ptr << endl;
     cout << *ptr << endl;
