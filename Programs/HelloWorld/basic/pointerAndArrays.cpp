@@ -18,7 +18,7 @@ int main()
     }
   for (int i = 0; i < 5; i++)
     {
-        
+         cout << luckyNumbers[i] << endl;
         cout <<*(luckyNumbers+i)<<"  ";
     }
 
