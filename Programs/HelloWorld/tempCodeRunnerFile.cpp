@@ -1,2 +1,2 @@
-
-    number = 10 + 20;
+ if (m == n)
+        return m;
