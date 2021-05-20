@@ -30,7 +30,7 @@ int main()
 {
     int number = 5;
     char letter = 'a';
-    /*  printNumber(&number);
+/*     printNumber(&number);
     printLetter(&letter); */
     print(&number, 'i');
     print(&letter, 'c');
